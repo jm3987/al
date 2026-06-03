@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Sylvia can't seem to get past her trifling ex, Jamir, or her traumatic vehicle accident that left her psychologically paralyzed. Dontrell is still stuck on his ex, Samiah. Both seem to be nowhere near ready to try something new. But when Dontrell ends up being Sylvia's Uber driver, their lanes begin to shift in another direction....</p>"; 

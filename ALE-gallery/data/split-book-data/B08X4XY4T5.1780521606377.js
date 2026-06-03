@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>One tattooed drummer. One feisty redhead. One sexy-as-sin keyboardist. And one smokin' hot night...</p> <p>What happens when two bandmates from the hottest rock band on the planet hook up with their lead singer’s (off-limits) little sister?</p> <p>Trouble, that’s what.</p> <p>But lucky for Imogen, trouble is exactly what’s on the menu.</p>"; 

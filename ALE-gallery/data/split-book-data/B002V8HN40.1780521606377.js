@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Anna Karenina seems to have everything - beauty, wealth, popularity and an adored son. But she feels that her life is empty until the moment she encounters the impetuous officer Count Vronsky.</p> <p>Translated by Louise and Aylmer Maude.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The passionate Karamazov brothers spring to life, led by their lecherous father, who entertains himself by drinking, womanizing, and pitting his three sons against each other. The men have plenty to fight over, including the alluring Grushenka.</p> <p></p>"; 

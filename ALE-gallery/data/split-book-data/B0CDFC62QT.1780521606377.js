@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Dakota had never intended to become the single mother of a goddess, but after her abusive ex storms back into her life, she’ll do anything necessary to protect her family. <br> <br> Warning: contains humor, excitement, adventure, magic, romance, and bodies. Proceed with caution.</p>"; 

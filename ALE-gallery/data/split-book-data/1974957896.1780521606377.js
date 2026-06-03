@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After Special Agent Adam Whitfield’s ex-wife is nearly killed when she stops an abduction, the serial killer that Adam’s been hunting turns his focus on Charlotte Murray for getting in his way. Now, as the Night Stalker closes in, Adam has two missions: bring the murderer to justice and save Charlotte - because failure isn’t an option.</p>"; 

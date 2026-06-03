@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Poirot Investigates</i> is a collection of short stories written by English author Agatha Christie and first published in the UK in March 1924. In the 11 stories, famed eccentric detective Hercule Poirot solves a myriad of mysteries involving greed, jealousy, and revenge.</p>"; 

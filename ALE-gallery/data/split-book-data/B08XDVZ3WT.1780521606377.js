@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Several years have passed, and the Whitfields, Sheridans, and their extended family must face new challenges and make life-altering decisions. As the hands of time continue to turn, the events that unfold will either tear the family further apart or bring them closer together, closing the gap in time and space once and for all.</p>"; 

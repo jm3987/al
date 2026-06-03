@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Known for its analgesic properties, this frequency influences the body's endogenous opioid system, which plays a key role in pain management while reducing the perception of pain by altering pain signal processing in the brain and nervous system.</p>"; 

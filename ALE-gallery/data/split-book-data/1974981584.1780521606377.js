@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When a hockey player with a major PR problem finds himself on a bad date with a redhead, he has to tough it out for five dates without flaking - or falling in love.</p>"; 

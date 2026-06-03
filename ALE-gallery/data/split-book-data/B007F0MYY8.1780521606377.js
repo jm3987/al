@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>The Illiad</i> dates back to the 8th century BC and is Homer's epic precursor to <i>The Odyssey</i>. Set during the Trojan War, it tells of battles and events during the weeks of a quarrel between King Agamemnon and the warrior Achilles. </p>"; 

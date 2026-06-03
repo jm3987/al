@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>Persuasion</i>, Jane Austen's last novel, is a tale of love and marriage told with irony and insight. Anne Elliot and Captain Wentworth have met and seperated years before. Their reunion, after the passage or irrecoverable years of their youth, forces a recognition of the false values that drove them apart."; 

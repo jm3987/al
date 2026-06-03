@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Kate Daniels wants it all—a big, crazy life, kids, and an adoring husband. Someday. For now, she'll be happy just to survive her first semester of college. Billy McDonald wants it all, too. Since the day he got his first guitar, he's had one goal—to prove he's worth something. His dream is so close, he can almost touch it.</p>"; 

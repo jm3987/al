@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When an A-list celebrity dives deep into a role by utilizing method acting, his wife will have to figure out how to get her husband back in this posh Hollywood romance.</p>"; 

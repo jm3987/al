@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Liam had everything figured out, finish school, and secure an NHL contract. It all seemed so simple until he meets Charlotte. The girl who was supposed to be just one night of fun that led to so much more. Now Liam will have to choose to follow his dreams or listen to his heart.</p> <p>Contains mature themes.</p>"; 

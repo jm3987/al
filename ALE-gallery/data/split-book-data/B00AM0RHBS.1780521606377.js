@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Trained in the ancient healing arts of the Crow, the Copper-Headed Woman is banished from her tribe when they begin to fear her powerful medicine. But an encounter with an injured white man teaches her to trust again.</p>"; 

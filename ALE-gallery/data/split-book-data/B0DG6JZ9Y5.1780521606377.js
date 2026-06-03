@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Determined to avenge her father's death, Courtney Johnston finds her destiny intertwined with Slayde Huntley, who hopes to ransom his missing sister with the cursed diamond his family has treasured for generations.</p>"; 

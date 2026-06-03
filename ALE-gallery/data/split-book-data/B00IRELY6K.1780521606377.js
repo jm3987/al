@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Kingsbury, a CBA best-selling author, delivers her signature mix of melodrama and genuine emotional punch in this novel about two young rodeo stars and their experiences with Down syndrome and cystic fibrosis.</p>"; 

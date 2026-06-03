@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From the authors of the best-selling <i>Men Who Can't Love</i> comes a frank, revealing, and reassuringly honest book about sexual relationships. The truth about people's intimate behavior, gained from hundreds of interviews, provides relevant and valuable insights in today's real-life sexual practices.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Anna has just started her new job at a mega-conglomerate corporation. Upon being assigned a tough task, Anna hears rumors about her supposedly arrogant and brash CEO. Things change dramatically when she is assigned to accompany him on a business trip. </p> <p>Turns out Brian has a different side to him. Which side does Anna uncover? </p>"; 

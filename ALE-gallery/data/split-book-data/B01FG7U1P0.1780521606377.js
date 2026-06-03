@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>One phone call changed me. Three simple words and I was shattered. Damaged. Broken. Alone. So I started over. And my journey of rediscovery led me straight into his arms. </p> <p>Chase Porter. The stranger who showed me life from a different perspective. But we both had secrets.... His would destroy my world. </p>"; 

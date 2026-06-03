@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>An <i>Essence</i> and <i>Blackboard</i> best seller, this novel is the soulful, sexy, and uncensored tale of a beautiful fashion photographer, the man she loves, and the people who want to keep them apart. African-American erotic fiction takes a new direction here with Morrison's imaginative and very graphic work.</p>"; 

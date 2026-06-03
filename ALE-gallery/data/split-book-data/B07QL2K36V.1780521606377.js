@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Sometimes, a journey back is a step forward. </p> <p>When 26-year-old Ayan is sent to live with his grumpy old grandfather Gopal Shanker in a tiny village in Kerala, he is understandably devastated. What can a sleepy, idyllic village without even internet connectivity offer a young man?</p>"; 

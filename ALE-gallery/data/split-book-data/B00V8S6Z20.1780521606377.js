@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Love is selfish.... </p> <p>My name is Blaire. I'm the bad girl. The other woman. The one who never gets the guy in the end. I'm the gold digger. The bitch. The one no one roots for. The one you love to hate. I hate myself too. Everyone has a story. Are you ready for mine? </p> <p>Contains mature themes. </p>"; 

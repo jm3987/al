@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I’m not supposed to be on vacation with my best friend’s older brother. I’ve wanted him for so long, and now we’re unexpectedly alone in a tropical paradise. Naturally, I packed a lot of bikinis, but I should have brought armor if I want to have any hope of surviving my week away with Noah Martin…or should I say, Dr. Martin.</p>"; 
